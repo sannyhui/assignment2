@@ -1,0 +1,2 @@
+mad/s10361649/myapplication/BuildConfig.java
+ mad.s10361649.myapplication.BuildConfig
